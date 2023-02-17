@@ -1,0 +1,15 @@
+/home/sneg/Documents/C#/Rekyrsia/SumOtNDoM/bin/Debug/net7.0/SumOtNDoM
+/home/sneg/Documents/C#/Rekyrsia/SumOtNDoM/bin/Debug/net7.0/SumOtNDoM.deps.json
+/home/sneg/Documents/C#/Rekyrsia/SumOtNDoM/bin/Debug/net7.0/SumOtNDoM.runtimeconfig.json
+/home/sneg/Documents/C#/Rekyrsia/SumOtNDoM/bin/Debug/net7.0/SumOtNDoM.dll
+/home/sneg/Documents/C#/Rekyrsia/SumOtNDoM/bin/Debug/net7.0/SumOtNDoM.pdb
+/home/sneg/Documents/C#/Rekyrsia/SumOtNDoM/obj/Debug/net7.0/SumOtNDoM.csproj.AssemblyReference.cache
+/home/sneg/Documents/C#/Rekyrsia/SumOtNDoM/obj/Debug/net7.0/SumOtNDoM.GeneratedMSBuildEditorConfig.editorconfig
+/home/sneg/Documents/C#/Rekyrsia/SumOtNDoM/obj/Debug/net7.0/SumOtNDoM.AssemblyInfoInputs.cache
+/home/sneg/Documents/C#/Rekyrsia/SumOtNDoM/obj/Debug/net7.0/SumOtNDoM.AssemblyInfo.cs
+/home/sneg/Documents/C#/Rekyrsia/SumOtNDoM/obj/Debug/net7.0/SumOtNDoM.csproj.CoreCompileInputs.cache
+/home/sneg/Documents/C#/Rekyrsia/SumOtNDoM/obj/Debug/net7.0/SumOtNDoM.dll
+/home/sneg/Documents/C#/Rekyrsia/SumOtNDoM/obj/Debug/net7.0/refint/SumOtNDoM.dll
+/home/sneg/Documents/C#/Rekyrsia/SumOtNDoM/obj/Debug/net7.0/SumOtNDoM.pdb
+/home/sneg/Documents/C#/Rekyrsia/SumOtNDoM/obj/Debug/net7.0/SumOtNDoM.genruntimeconfig.cache
+/home/sneg/Documents/C#/Rekyrsia/SumOtNDoM/obj/Debug/net7.0/ref/SumOtNDoM.dll
